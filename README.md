@@ -1,5 +1,6 @@
 # create-cos72-dapp
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 What is this?
 Cos72 is a Web3 app template for creating Web3 apps.
 Key features:
